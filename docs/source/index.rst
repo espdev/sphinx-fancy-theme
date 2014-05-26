@@ -8,6 +8,10 @@ comfortable reading.
 Inspired by
 `sphinx-readable-theme <https://github.com/ignacysokolowski/sphinx-readable-theme>`_.
 
+.. seealso::
+
+  `Sphinx Readable Theme <https://sphinx-readable-theme.readthedocs.org/>`_
+
 
 Installation and setup
 ======================
